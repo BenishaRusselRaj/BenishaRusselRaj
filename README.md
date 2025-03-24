@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Statistics and Data Science
-- 👯 I’m looking to collaborate on Computational Biology
-- 🤔 I’m looking for help with Biostatistics, Bioinformatics and Computational Biology
+- I’m currently learning Statistics and Data Science
+- I’m looking to collaborate on Computational Biology
+- I’m looking for help with Biostatistics, Bioinformatics and Computational Biology
